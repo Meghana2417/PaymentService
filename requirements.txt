@@ -7,3 +7,4 @@ pillow
 PyJWT
 celery[redis]
 redis
+
